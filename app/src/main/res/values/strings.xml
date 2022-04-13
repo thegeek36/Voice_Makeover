@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Voice Makeover</string>
+    <string name="voice_makeover">Voice Makeover</string>
+    <string name="speech_to_voice">Text to Voice</string>
+    <string name="voice_to_speech">Voice To Text</string>
+    <string name="stop">stop</string>
+    <string name="convert">Convert</string>
+    <string name="enter_your_text_here">Enter your text here</string>
+
+</resources>
